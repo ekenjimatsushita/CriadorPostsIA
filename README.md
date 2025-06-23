@@ -16,6 +16,10 @@ Essa é uma aplicação com objetivo de auxiliar o usuário a criar posts para s
 ## 🔥 Utilização 
 O usuário é introduzido e instruído ao funcionamento da aplicação por meio de uma interface onde serão inseridas as informações necessárias para gerar o post. A ideia principal deve ser digitada em um campo, enquanto a rede social e os objetivos devem ser escolhidos dentre as opções disponíveis. A partir disso, a API é configurada com base nos parâmetros definidos, de forma que sua temperatura e seu número máximo de tokens sejam específicos para cada opção escolhida pelo usuário. Depois disso é gerado um prompt, também característico, para que a IA faça a criação da postagem. Por fim, há a instrução de inserir um Call to Action e Hashtags que servem para impulsionar nas redes sociais.
 
+![image](https://github.com/user-attachments/assets/e869c2cd-0e01-4f1d-b6bc-735f7ddad257) ![image](https://github.com/user-attachments/assets/d3f93fa7-e94f-4d68-8f8d-9584e31529e2)
+
+
+
 ## ⚙️ Configuração do Ambiente
 
 Siga estas etapas para configurar e executar o projeto localmente.

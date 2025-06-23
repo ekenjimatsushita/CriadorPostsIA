@@ -3,7 +3,6 @@ import streamlit as st
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
-import time
 
 # ---------------------------------------------------Funções---------------------------------------------------------------------
 # carregando a variável de ambiente

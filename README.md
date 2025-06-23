@@ -2,8 +2,6 @@
 
 ## 🎈 Introdução
 
-Experimente! [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ekenjimatsushita-criadorpostsia-project-sm-lxfuym.streamlit.app)
-
 Essa é uma aplicação com objetivo de auxiliar o usuário a criar posts para suas redes sociais a partir de uma ideia e tendo um objetivo em mente. Utilizando a API do Gemini, a ferramenta consegue gerar uma postagem, a partir de ideias do usuário, que consiga alcançar a audiência de acordo com os objetivos explicitados.
 
 
@@ -20,7 +18,7 @@ Veja um pouco abaixo!
 
 ![image](https://github.com/user-attachments/assets/e869c2cd-0e01-4f1d-b6bc-735f7ddad257) ![image](https://github.com/user-attachments/assets/d3f93fa7-e94f-4d68-8f8d-9584e31529e2)
 
-
+Experimente! [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ekenjimatsushita-criadorpostsia-project-sm-lxfuym.streamlit.app)
 
 ## ⚙️ Configuração do Ambiente
 

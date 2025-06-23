@@ -1,15 +1,10 @@
-import os
 import streamlit as st
-from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 
 # ---------------------------------------------------Funções---------------------------------------------------------------------
-# carregando a variável de ambiente
-load_dotenv()
-
 # definindo a chave API
-api_key = os.environ.get('GOOGLE_API_KEY')
+api_key = st.secrets['GOOGLE_API_KEY']
 if not api_key:
     st.error('Chave da API do Gemini não configurada')
     st.stop
